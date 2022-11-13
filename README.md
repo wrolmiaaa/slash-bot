@@ -1,2 +1,1 @@
-# slash-bot
-asd
+discord.js v14 slash altyapı
